@@ -1,4 +1,4 @@
-public class fixMe {
+public class FixMe {
     public static void main (String[] args) {
         System.out.println("There's something wrong with this");
         System.out.println("Can you fix me?");
